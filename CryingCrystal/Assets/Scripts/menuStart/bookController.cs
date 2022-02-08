@@ -4,13 +4,10 @@ using UnityEngine;
 
 public class bookController : MonoBehaviour {
     public Animator animator;
-    public GameObject frontBook;
 
     public void openBook(int choice) {
-      frontBook.SetActive(false);
       choose(choice);
       animator.SetBool("isOpen", true);
-
     }
 
     public void closeBook() {
