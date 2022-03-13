@@ -23,13 +23,13 @@ public class PlayerMovement : MonoBehaviour {
       Vector2 currentPos = rb.position;
       Vector2 adjustedPos = movement * playerSpeed;
       Vector2 newPos = currentPos + adjustedPos * Time.fixedDeltaTime;
-      //rb.MovePosition(newPos);
+      rb.MovePosition(newPos);
+
     }
     private void Animate() {
-      print("input mov x: " + movement.x);
-      print("input mov y: " + movement.y);
       animator.SetFloat("MovementX", movement.x);
-      animator.SetFloat("MovementX", movement.y);
+      animator.SetFloat("MovementY", movement.y);
+      //animator.SetFloat("LastMoviment", )
     }
     // Update is called once per frame
     void FixedUpdate() {
