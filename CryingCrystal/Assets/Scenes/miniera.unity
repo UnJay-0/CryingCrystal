@@ -12937,11 +12937,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!20 &1367297881 stripped
-Camera:
-  m_CorrespondingSourceObject: {fileID: 7719105247705303779, guid: 4c241df2b6a2743b9adadb1ba9911e6c, type: 3}
-  m_PrefabInstance: {fileID: 7719105246880548282}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1997307666
 GameObject:
   m_ObjectHideFlags: 0
@@ -12957,8 +12952,8 @@ GameObject:
   - component: {fileID: 1997307671}
   - component: {fileID: 1997307672}
   m_Layer: 0
-  m_Name: Character
-  m_TagString: Untagged
+  m_Name: Player
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13092,7 +13087,7 @@ MonoBehaviour:
   m_DefaultControlScheme: 
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
-  m_Camera: {fileID: 1367297881}
+  m_Camera: {fileID: 0}
 --- !u!95 &1997307672
 Animator:
   serializedVersion: 3
@@ -13167,5 +13162,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Main Camera
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: 4c241df2b6a2743b9adadb1ba9911e6c, type: 3}
