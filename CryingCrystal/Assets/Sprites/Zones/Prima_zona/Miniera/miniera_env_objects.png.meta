@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: 91bcaaa55ddf145398ab5b75f4c7108f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5418633856020301377
+    second: miniera_env_objects_0
+  - first:
+      213: -4769089435605860923
+    second: miniera_env_objects_1
+  - first:
+      213: -6363561355766090018
+    second: miniera_env_objects_2
+  - first:
+      213: -6390318202457796051
+    second: miniera_env_objects_3
+  - first:
+      213: 6239771345599633310
+    second: miniera_env_objects_4
+  - first:
+      213: 5903831406935869769
+    second: miniera_env_objects_5
+  - first:
+      213: -6127695986256633503
+    second: miniera_env_objects_6
+  - first:
+      213: -2183602628851583380
+    second: miniera_env_objects_7
+  - first:
+      213: 6267678066703967521
+    second: miniera_env_objects_8
+  - first:
+      213: -3976990938805720996
+    second: miniera_env_objects_9
+  - first:
+      213: 2072424536206002647
+    second: miniera_env_objects_10
+  - first:
+      213: -5921988459421613770
+    second: miniera_env_objects_11
+  - first:
+      213: 2302910525050422506
+    second: miniera_env_objects_12
+  - first:
+      213: 3007798908823028481
+    second: miniera_env_objects_13
+  - first:
+      213: 6142087946690570848
+    second: miniera_env_objects_14
+  - first:
+      213: 3122709190804439006
+    second: miniera_env_objects_15
+  - first:
+      213: 7166364665472911969
+    second: miniera_env_objects_16
+  - first:
+      213: -5654915442487329901
+    second: miniera_env_objects_17
+  - first:
+      213: 721384105853245984
+    second: miniera_env_objects_18
+  - first:
+      213: 1083575740879117755
+    second: miniera_env_objects_19
+  - first:
+      213: 599994703063211798
+    second: miniera_env_objects_20
+  - first:
+      213: 576148159281159755
+    second: miniera_env_objects_21
+  - first:
+      213: 54179232285181619
+    second: miniera_env_objects_22
+  - first:
+      213: 3372781249915934800
+    second: miniera_env_objects_23
+  - first:
+      213: -3309030724665186290
+    second: miniera_env_objects_24
+  - first:
+      213: 3946334111246831126
+    second: miniera_env_objects_25
+  - first:
+      213: 1472137113745381556
+    second: miniera_env_objects_26
+  - first:
+      213: -5778555551673722089
+    second: miniera_env_objects_27
+  - first:
+      213: 6315416199489275821
+    second: miniera_env_objects_28
+  - first:
+      213: -796025223728209670
+    second: miniera_env_objects_29
+  - first:
+      213: -8260962243216993249
+    second: miniera_env_objects_30
+  - first:
+      213: 4187330460989618768
+    second: miniera_env_objects_31
+  - first:
+      213: 1948315797488371968
+    second: miniera_env_objects_32
+  - first:
+      213: 5771417080483770216
+    second: miniera_env_objects_33
+  - first:
+      213: 6744086107685085094
+    second: miniera_env_objects_34
+  - first:
+      213: -4460907857413863948
+    second: miniera_env_objects_35
+  - first:
+      213: -3271466033718995398
+    second: miniera_env_objects_36
+  - first:
+      213: -35485807786215376
+    second: miniera_env_objects_37
+  - first:
+      213: 2716621004588192661
+    second: miniera_env_objects_38
+  - first:
+      213: -2603703337193666947
+    second: miniera_env_objects_39
+  - first:
+      213: -234160452034396126
+    second: miniera_env_objects_40
+  - first:
+      213: 986223651019681182
+    second: miniera_env_objects_41
+  - first:
+      213: -5920761594468964373
+    second: miniera_env_objects_42
+  - first:
+      213: -5771999449398947926
+    second: miniera_env_objects_43
+  - first:
+      213: 8180555037237942243
+    second: miniera_env_objects_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miniera_env_objects_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 145
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9310497352dc4b0800000000000000
+      internalID: -5418633856020301377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 146
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdf4a01d6ac0ddb0800000000000000
+      internalID: -4769089435605860923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 177
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6b82b99a610b7a0800000000000000
+      internalID: -6363561355766090018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 179
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d225ac4c3770157a0800000000000000
+      internalID: -6390318202457796051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 179
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e979026aafe189650800000000000000
+      internalID: 6239771345599633310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 178
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9490530826f9ee150800000000000000
+      internalID: 5903831406935869769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 182
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161269767fc06faa0800000000000000
+      internalID: -6127695986256633503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 187
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6631b07af842b1e0800000000000000
+      internalID: -2183602628851583380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 131
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125a56c7ef34bf650800000000000000
+      internalID: 6267678066703967521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 133
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58a989efc3eec8c0800000000000000
+      internalID: -3976990938805720996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 133
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9cc50b22bb2cc10800000000000000
+      internalID: 2072424536206002647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63146384fded0dda0800000000000000
+      internalID: -5921988459421613770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_12
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 134
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae48323dbe495ff10800000000000000
+      internalID: 2302910525050422506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 135
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103443ceb29ddb920800000000000000
+      internalID: 3007798908823028481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 93
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a23b102741d3550800000000000000
+      internalID: 6142087946690570848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 117
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edffeb6d677165b20800000000000000
+      internalID: 3122709190804439006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 97
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a8c68b1ba047360800000000000000
+      internalID: 7166364665472911969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 105
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bfba7bd54b581b0800000000000000
+      internalID: -5654915442487329901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 114
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02adeffa50fd20a00800000000000000
+      internalID: 721384105853245984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 104
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd94523562a90f00800000000000000
+      internalID: 1083575740879117755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 85
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fd237e00c935800800000000000000
+      internalID: 599994703063211798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed2f3c2b3eef700800000000000000
+      internalID: 576148159281159755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 89
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6cf8689bb70c000800000000000000
+      internalID: 54179232285181619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 88
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05856525da68ece20800000000000000
+      internalID: 3372781249915934800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 92
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e086a718616f312d0800000000000000
+      internalID: -3309030724665186290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 99
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ecfd137f134c630800000000000000
+      internalID: 3946334111246831126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8567db7e41e6410800000000000000
+      internalID: 1472137113745381556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_27
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 98
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b50a387527ecfa0800000000000000
+      internalID: -5778555551673722089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_28
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 83
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da74e4ba29dd4a750800000000000000
+      internalID: 6315416199489275821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 81
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0ed6bc643f3f4f0800000000000000
+      internalID: -796025223728209670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 74
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f141326bb9a2b5d80800000000000000
+      internalID: -8260962243216993249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a757c6ed26c1a30800000000000000
+      internalID: 4187330460989618768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 66
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009839b25eec90b10800000000000000
+      internalID: 1948315797488371968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 67
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f6bd4a141381050800000000000000
+      internalID: 5771417080483770216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 51
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af573f459ec79d50800000000000000
+      internalID: 6744086107685085094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_35
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 41
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5091740fba712c0800000000000000
+      internalID: -4460907857413863948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 41
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a365c6da9fa6992d0800000000000000
+      internalID: -3271466033718995398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038b55888dde18ff0800000000000000
+      internalID: -35485807786215376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 51
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59318df096063b520800000000000000
+      internalID: 2716621004588192661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_39
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 46
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76821e1c99cddbd0800000000000000
+      internalID: -2603703337193666947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2208b0c3f4810ccf0800000000000000
+      internalID: -234160452034396126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ded147f25cfad00800000000000000
+      internalID: 986223651019681182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 21
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7e6e903ba35dda0800000000000000
+      internalID: -5920761594468964373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 25
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf43d6051db5efa0800000000000000
+      internalID: -5771999449398947926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniera_env_objects_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 25
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e79914c67b278170800000000000000
+      internalID: 8180555037237942243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
