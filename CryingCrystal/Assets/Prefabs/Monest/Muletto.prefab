@@ -92,6 +92,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6433039790021792498}
   - component: {fileID: 6129237123024011846}
+  - component: {fileID: 1577287736302906968}
   m_Layer: 0
   m_Name: Muletto
   m_TagString: Untagged
@@ -125,3 +126,41 @@ SortingGroup:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!60 &1577287736302906968
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4523746513259105395}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 1
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 2.8, y: 1.2}
+      - {x: 0, y: 1.2}
+      - {x: -2.8, y: 1.2}
+      - {x: -2.8, y: 0.1}
+      - {x: -2.6, y: -0.7}
+      - {x: -2.2, y: -0.8}
+      - {x: -1.7, y: -0.8}
+      - {x: -1.5, y: -0.6}
+      - {x: -0.1, y: -0.6}
+      - {x: 0.1, y: -0.8}
+      - {x: 0.9, y: -0.8}
+      - {x: 1, y: -0.3}
+      - {x: 2.7, y: 0.1}

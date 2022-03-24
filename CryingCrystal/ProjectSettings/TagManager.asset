@@ -38,15 +38,24 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
-    locked: 0
   - name: background
     uniqueID: 1844826713
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0
   - name: book
     uniqueID: 131703521
     locked: 0
   - name: onBook
     uniqueID: 8883805
+    locked: 0
+  - name: Casselv0
+    uniqueID: 4115036931
+    locked: 0
+  - name: Casselv1
+    uniqueID: 3572264103
+    locked: 0
+  - name: Casselv2
+    uniqueID: 3183792575
     locked: 0
