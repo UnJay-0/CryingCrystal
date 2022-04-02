@@ -59,6 +59,21 @@ TextureImporter:
   - first:
       213: 8401514470521614509
     second: baraccopoliEnvObj_18
+  - first:
+      213: -6923382578241029711
+    second: baraccopoliEnvObj_19
+  - first:
+      213: -6420832425809839928
+    second: baraccopoliEnvObj_20
+  - first:
+      213: 6040840705703316868
+    second: baraccopoliEnvObj_21
+  - first:
+      213: 3768641487724061630
+    second: baraccopoliEnvObj_22
+  - first:
+      213: 9021740003613068381
+    second: baraccopoliEnvObj_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -205,8 +220,8 @@ TextureImporter:
       name: baraccopoliEnvObj_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 607
+        x: 34
+        y: 628
         width: 184
         height: 127
       alignment: 0
@@ -227,7 +242,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 230
-        y: 607
+        y: 626
         width: 184
         height: 128
       alignment: 0
@@ -289,8 +304,8 @@ TextureImporter:
       name: baraccopoliEnvObj_6
       rect:
         serializedVersion: 2
-        x: 231
-        y: 490
+        x: 232
+        y: 506
         width: 184
         height: 108
       alignment: 0
@@ -331,10 +346,10 @@ TextureImporter:
       name: baraccopoliEnvObj_8
       rect:
         serializedVersion: 2
-        x: 237
-        y: 382
-        width: 75
-        height: 46
+        x: 233
+        y: 384
+        width: 84
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +367,10 @@ TextureImporter:
       name: baraccopoliEnvObj_9
       rect:
         serializedVersion: 2
-        x: 318
-        y: 382
-        width: 75
-        height: 46
+        x: 356
+        y: 384
+        width: 10
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,9 +389,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 426
-        y: 315
+        y: 316
         width: 74
-        height: 169
+        height: 168
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,9 +410,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 514
-        y: 314
+        y: 315
         width: 74
-        height: 170
+        height: 169
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,7 +433,7 @@ TextureImporter:
         x: 232
         y: 264
         width: 184
-        height: 110
+        height: 108
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,10 +451,10 @@ TextureImporter:
       name: baraccopoliEnvObj_13
       rect:
         serializedVersion: 2
-        x: 40
-        y: 73
+        x: 90
+        y: 161
         width: 5
-        height: 101
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,10 +472,10 @@ TextureImporter:
       name: baraccopoliEnvObj_14
       rect:
         serializedVersion: 2
-        x: 90
-        y: 161
-        width: 5
-        height: 52
+        x: 256
+        y: 151
+        width: 51
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +493,10 @@ TextureImporter:
       name: baraccopoliEnvObj_15
       rect:
         serializedVersion: 2
-        x: 152
-        y: 161
-        width: 5
-        height: 52
+        x: 349
+        y: 151
+        width: 51
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,10 +514,10 @@ TextureImporter:
       name: baraccopoliEnvObj_16
       rect:
         serializedVersion: 2
-        x: 203
-        y: 73
-        width: 5
-        height: 101
+        x: 431
+        y: 200
+        width: 74
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +535,10 @@ TextureImporter:
       name: baraccopoliEnvObj_17
       rect:
         serializedVersion: 2
-        x: 80
-        y: 38
-        width: 5
-        height: 52
+        x: 256
+        y: 46
+        width: 52
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -541,10 +556,10 @@ TextureImporter:
       name: baraccopoliEnvObj_18
       rect:
         serializedVersion: 2
-        x: 162
-        y: 38
-        width: 5
-        height: 52
+        x: 348
+        y: 46
+        width: 52
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

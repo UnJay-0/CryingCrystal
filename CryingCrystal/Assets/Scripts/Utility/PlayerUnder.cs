@@ -12,10 +12,12 @@ public class PlayerUnder : MonoBehaviour {
 
 
     private void OnTriggerEnter2D(Collider2D other) {
-      sp.color = new Color(1, 1, 1, 0.4f);
+      if (other.gameObject.tag == "Player")
+        sp.color = new Color(1, 1, 1, 0.4f);
     }
 
     private void OnTriggerExit2D(Collider2D other) {
-      sp.color = new Color(1, 1, 1, 1);
+      if (other.gameObject.tag == "Player")
+        sp.color = new Color(1, 1, 1, 1);
     }
 }
