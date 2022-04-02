@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: ff54da9ab26ec41048f2ecd23549d3a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4964748322394837401
+    second: baraccopoliEnvObj_0
+  - first:
+      213: -5236225105227542006
+    second: baraccopoliEnvObj_1
+  - first:
+      213: -8095049499388285225
+    second: baraccopoliEnvObj_2
+  - first:
+      213: 8216768773964770383
+    second: baraccopoliEnvObj_3
+  - first:
+      213: -3040569532056826369
+    second: baraccopoliEnvObj_4
+  - first:
+      213: -4939450072263446956
+    second: baraccopoliEnvObj_5
+  - first:
+      213: 226453805083816350
+    second: baraccopoliEnvObj_6
+  - first:
+      213: -1774958497715173898
+    second: baraccopoliEnvObj_7
+  - first:
+      213: 7636026646131034212
+    second: baraccopoliEnvObj_8
+  - first:
+      213: -4884121520609736696
+    second: baraccopoliEnvObj_9
+  - first:
+      213: 7304408820984690275
+    second: baraccopoliEnvObj_10
+  - first:
+      213: 3878610051512006958
+    second: baraccopoliEnvObj_11
+  - first:
+      213: -3378590896646010888
+    second: baraccopoliEnvObj_12
+  - first:
+      213: -191588492704577668
+    second: baraccopoliEnvObj_13
+  - first:
+      213: -7866468508177486161
+    second: baraccopoliEnvObj_14
+  - first:
+      213: -694565037503337979
+    second: baraccopoliEnvObj_15
+  - first:
+      213: 3823775725338060056
+    second: baraccopoliEnvObj_16
+  - first:
+      213: -4383808448295628939
+    second: baraccopoliEnvObj_17
+  - first:
+      213: 8401514470521614509
+    second: baraccopoliEnvObj_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 801
+        width: 195
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e607484bba91bb0800000000000000
+      internalID: -4964748322394837401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 822
+        width: 168
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a021eee62013557b0800000000000000
+      internalID: -5236225105227542006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 607
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dee1c5ae5b98af80800000000000000
+      internalID: -8095049499388285225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 607
+        width: 184
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c21b56aa3d70270800000000000000
+      internalID: 8216768773964770383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 535
+        width: 89
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd80e6ce1abdc5d0800000000000000
+      internalID: -3040569532056826369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 471
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ea5f0645c837bb0800000000000000
+      internalID: -4939450072263446956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 490
+        width: 184
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e917e023986842300800000000000000
+      internalID: 226453805083816350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 334
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f540a486a41e57e0800000000000000
+      internalID: -1774958497715173898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 382
+        width: 75
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468ce0af6cd98f960800000000000000
+      internalID: 7636026646131034212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 382
+        width: 75
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808473caa5d183cb0800000000000000
+      internalID: -4884121520609736696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 315
+        width: 74
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366b50d4f197e5560800000000000000
+      internalID: 7304408820984690275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 314
+        width: 74
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29f1a6ca4793d530800000000000000
+      internalID: 3878610051512006958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 264
+        width: 184
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7cb04ea75dc11d0800000000000000
+      internalID: -3378590896646010888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 73
+        width: 5
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c778a4de747575df0800000000000000
+      internalID: -191588492704577668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 161
+        width: 5
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faea845f190b4d290800000000000000
+      internalID: -7866468508177486161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 161
+        width: 5
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a253247c86c56f0800000000000000
+      internalID: -694565037503337979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 73
+        width: 5
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815698153c7c01530800000000000000
+      internalID: 3823775725338060056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 38
+        width: 5
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f8bf351759923c0800000000000000
+      internalID: -4383808448295628939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baraccopoliEnvObj_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 38
+        width: 5
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0beb6d5ec289470800000000000000
+      internalID: 8401514470521614509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
